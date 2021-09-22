@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     const MaterialApp(
-      home: const ExampleStaggeredAnimations(),
+      home: ExampleStaggeredAnimations(),
       debugShowCheckedModeBanner: false,
     ),
   );
